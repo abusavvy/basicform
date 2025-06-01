@@ -23,6 +23,7 @@ textarea{
 }
 
 button{
+    cursor: pointer;
     margin: 30px 0;
     font-size: 1em;
     padding: 10px 20px;
